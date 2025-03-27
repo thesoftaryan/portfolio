@@ -1,0 +1,99 @@
+{
+    "introduction": "I am Aryan Maurya, a B.Tech student in Computer Science Engineering at IIT Bhilai, with a strong foundation in computer science and a passion for technology. I am an aspiring software developer seeking an internship at Predusk to apply and expand my technical skills in a dynamic environment.",
+    "contact": {
+      "email": "thesoftaryan@gmail.com",
+      "phone": "+91 9044877820",
+      "linkedin": "thesoftaryan",
+      "github": "thesoftaryan"
+    },
+    "education": [
+      {
+        "institution": "IIT Bhilai, Durg",
+        "degree": "Bachelor of Technology in Computer Science",
+        "start_date": "October 2022",
+        "end_date": "June 2026 (Expected)",
+        "cgpa": 8.79
+      }
+    ],
+    "skills": {
+      "programming_development": [
+        "C++",
+        "C",
+        "Flutter",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "React",
+        "Node.js",
+        "Python"
+      ],
+      "tools": [
+        "GitHub",
+        "Docker",
+        "Linux",
+        "WordPress"
+      ],
+      "analytical_skills": [
+        "Strong quantitative abilities",
+        "Fast learner",
+        "Adaptable"
+      ],
+      "languages": [
+        {"name": "English", "proficiency": "9/10"},
+        {"name": "Hindi", "proficiency": "10/10"}
+      ]
+    },
+    "work_experience": [
+      {
+        "role": "SEO and Digital Marketing Specialist",
+        "start_date": "2020",
+        "end_date": "Present",
+        "description": "Managed over 10+ websites using WordPress, focusing on optimization and user engagement. Developed strategies to improve site rankings and visibility, leveraging analytical and problem-solving skills."
+      },
+      {
+        "role": "App Development",
+        "start_date": "2021",
+        "end_date": "Present",
+        "description": "Designed and developed CasyMag, a case management app with a Firebase backend, using Flutter and real-time data management."
+      },
+      {
+        "role": "Full Stack Web Development (MERN)",
+        "start_date": "2023",
+        "end_date": "Present",
+        "description": "Developed multiple websites using React for the frontend and Node.js with Express.js for the backend. Implemented Redux for state management."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Forum Website",
+        "date": "September 2022",
+        "description": "Built an interactive forum using PHP, CSS, and JavaScript, featuring user authentication and post management.",
+        "technologies": ["PHP", "MySQL", "CSS", "JavaScript"]
+      },
+      {
+        "name": "PHP Compiler",
+        "date": "March 2023",
+        "description": "Created a compiler from scratch using Lex and Yacc.",
+        "technologies": ["Lex", "Yacc", "PHP"]
+      },
+      {
+        "name": "Resource Sharing Website",
+        "date": "February 2025",
+        "description": "Built an interactive resource-sharing website for IIT Bhilai students to access course materials in an organized way, reducing resource-hunting time.",
+        "technologies": ["MERN (MongoDB, Express.js, React, Node.js)"]
+      }
+    ],
+    "achievements_coursework": {
+      "coursework": [
+        "Operating Systems",
+        "Computer Networks",
+        "Machine Learning",
+        "Digital Marketing"
+      ],
+      "achievements": []
+    },
+    "hobbies_interests": [
+      "Exploring the intersection of technology and creativity"
+    ]
+  }

@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv.bak/
+
+# Environment variables and secrets
+.env
+*.env
+secrets.json
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
+
+# Dependency lock files (if not needed)
+Pipfile.lock
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS-specific files
+.DS_Store
+
+# Render-specific or deployment artifacts (if any)
+*.pid
