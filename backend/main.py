@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from together import Together
 import json
+import os
 
 app = FastAPI()
 
@@ -31,7 +32,7 @@ async def chat(request: ChatRequest):
     response = client.chat.completions.create(
         model="mistralai/Mixtral-8x7B-Instruct-v0.1",
         messages=[{"role": "user", "content": full_prompt}],
-        max_tokens=300,
+        max_tokens=400,
         temperature=0.7
     )
     print(response)
